@@ -12,13 +12,4 @@ http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
 
 These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive file. 
 
-[[https://github.com/Santosh-Gupta/Book2Vec/blob/master/Images/goodreads.png]]
-
-[[https://github.com/Santosh-Gupta/Book2Vec/blob/master/Images/Book2VecReg2700-3900-7-1.png]]
-
-Book2VecReg2700-3900-7-1.png
-
-![alt text](Images/goodreads.png)
-
-
-![alt text](Images/Book2VecReg2700-3900-7-1.png)
+![alt text](Images/0-3000.png)
