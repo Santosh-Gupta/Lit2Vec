@@ -19,3 +19,6 @@ These notebooks are set up to download these files from your Google Drive, and w
 Book2VecReg2700-3900-7-1.png
 
 ![alt text](Images/goodreads.png)
+
+
+![alt text](Images/Book2VecReg2700-3900-7-1.png)
