@@ -8,6 +8,6 @@ This repository includes Google Colab notebooks used to analyze and clean the or
 
 These notebooks requires the 'ratings.csv' and the 'books.csv' files which can be found here
 
-#https://github.com/zygmuntz/goodbooks-
+https://github.com/zygmuntz/goodbooks-
 
 These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive file. 
