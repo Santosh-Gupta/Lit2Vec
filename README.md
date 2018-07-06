@@ -24,13 +24,13 @@ This section contains modern fantasty/high fantasy.
 
 The secton in the middle has mostly comic books with sci books sourrounding it. Near the bottom is Neil Gaiman's graphic novel series Sandman. 
 
-![alt text](Images/Book2VecSample2.JPG)
-
-This section has space-focused sci-fi. There's a small section of Chuck Palahniuk books to the right. 
-
 ![alt text](Images/Book2VecSample3.JPG)
 
 The books at the top is a Neil Gaiman's section. I'm not familiar with the other books but they seem to have an element of Neil Gaiman's style of paranormal/magic/sci-fi with a humorous style. 
+
+![alt text](Images/Book2VecSample2.JPG)
+
+This section has space-focused sci-fi. There's a small section of Chuck Palahniuk books to the right. 
 
 ![alt text](Images/Book2VecSample4.JPG)
 
@@ -59,26 +59,44 @@ This section has modern (90's to current) childrens books series. A Series of Un
 
 ![alt text](Images/Book2VecSample10.JPG)
 
+These books all seem to have informational elements. This section has the most fascinating trends to me. I still haven't fully interpreted these trends but here are the ones I noticed so far. 
 
+The top right seem to be focused on relationship informaion, and below that are books focused on financial and organizational success (Think and Grow Rich, The 7 Habits of Highly Effective People, etc).  Elon Musk's biography is in that section, which seems to be a favorite of Silicon Valley Tech people. The the books on the middle right are productivity themed, (The 4-hour workweek, Flow:The Psycology ofPtimal Experience ). 
 
-![alt text](Images/Book2VecSample11.JPG)
+The books in the middle have more of a narrative/story elements: Walter Issacson books , Michael Lewis books, Deliverying Happyness. The the right of that is books about startups. The bottom left has books on food and plant life. 
+
+The middle right is focused on art-based informational books. 
 
 ![alt text](Images/Book2VecSample12.JPG)
 
+This section continues the informational trend above, themes more ofcused on history. 
+
+![alt text](Images/Book2VecSample11.JPG)
+
+This picture continues the historical trend above. The right side tends to have historical ficion books. The middle is focused on American history. 
+
+![alt text](Images/Book2VecSample15.JPG)
+
+This section is focused on comedy, particularly by those working in television comedy.  
+
 ![alt text](Images/Book2VecSample13.JPG)
+
+A young adult section, the right side is focused on dystopia and paranormal themed books, the left side is more realist. 
 
 ![alt text](Images/Book2VecSample14.JPG)
 
-![alt text](Images/Book2VecSample15.JPG)
+These section tends to have books with female main characters. 
 
 ![alt text](Images/Book2VecSample16.JPG)
 
 
-Full map of the 3000 vectors. 
+Full map of the 3000 vector TNSE. You'll have to zoom in real close to make out the text. 
+
+I'll make more for the other 7000 vectors but Google Colab seems to be only able to handle 3000-3500 vectors, even on GPU mode, so I'll probably have to make 2 or 3 more maps. 
 
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
-The following images show samples of the similiarity properties of the book vectors. 
+The following images show examples of the similiarity properties of the book vectors. 
 
 ![alt-text-1](Images/sim1.JPG) ![alt-text-2](Images/sim2.JPG)
 ![alt text](Images/sim3.JPG) ![alt text](Images/sim4.JPG)
