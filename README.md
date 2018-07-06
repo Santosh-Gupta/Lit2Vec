@@ -12,4 +12,4 @@ http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
 
 These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive file. 
 
-![alt text](Images/0-3000.png)
+![alt text](Images/Book2Vec0-3000New.jpg)
