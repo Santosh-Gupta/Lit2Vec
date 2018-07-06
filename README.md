@@ -36,3 +36,13 @@ This is the full map containing all 3000 vectors.
 
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
+The following images show samples of showing which vectors are most similiar to a particular book. 
+
+![alt text](Images/sim1.JPG)
+![alt text](Images/sim2.JPG)
+![alt text](Images/sim3.JPG)
+![alt text](Images/sim4.JPG)
+![alt text](Images/sim5.JPG)
+![alt text](Images/sim6.JPG)
+![alt text](Images/sim7.JPG)
+
