@@ -34,7 +34,7 @@ This section has space-focused sci-fi. There's a small section of Chuck Palahniu
 
 ![alt text](Images/Book2VecSample3.JPG)
 
-Classics which seem to be grouped by time-period and author. 
+Pre-20th century classics which seem to be grouped by time-period and author. 
 
 ![alt text](Images/Book2VecSample5.JPG)
 
