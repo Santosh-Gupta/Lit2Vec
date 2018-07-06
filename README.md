@@ -42,7 +42,7 @@ The top right is having a Stephan King party and the bottom left side is having 
 
 ![alt text](Images/Book2VecSample6.JPG)
 
-Classic childrens' books. The majority of the ones on the bottom left are picture books. Roald Dahl has his own section on the top right. Paddington and Winnie the Pooh seem to enjoy each other's company. 
+Classic childrens' books. The majority of the ones on the bottom left are picture books. Roald Dahl has his own section on the top right. Paddington and Winnie the Pooh seem to enjoy each other's company. Actually, the bottom sourrounding section has mostly animal main characters. 
 
 ![alt text](Images/Book2VecSample7.JPG)
 
