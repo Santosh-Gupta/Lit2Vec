@@ -24,17 +24,15 @@ This section contains fantasty/high fantasy written within the last 30-40 years.
 
 The secton in the middle has mostly comic books with sci books sourrounding it. Near the bottom is Neil Gaiman's graphic novel series Sandman. 
 
-![alt text](Images/Book2VecSample4.JPG)
+![alt text](Images/Book2VecSample2.JPG)
 
 The books at the top is a Neil Gaiman's section. I'm not familiar with the other books but they seem to have an element of Neil Gaiman's style of paranormal/magic/sci-fi with a humorous style. 
 
-![alt text](Images/Book2VecSample2.JPG)
+![alt text](Images/Book2VecSample4.JPG)
 
 This section has space-focused sci-fi. There's a small section of Chuck Palahniuk books to the right. 
 
 ![alt text](Images/Book2VecSample3.JPG)
-
-
 
 Classics which seem to be grouped by time-period and author. 
 
