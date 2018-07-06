@@ -42,12 +42,11 @@ The top right is having a Stephan King party and the bottom left side is having 
 
 ![alt text](Images/Book2VecSample6.JPG)
 
-Classic childrens' books. The majority of the ones on the bottom left are picture books. Roald Dahl has his own section on the top right. Paddington and Winnie thePooh seem to enjoy each other's company. 
+Classic childrens' books. The majority of the ones on the bottom left are picture books. Roald Dahl has his own section on the top right. Paddington and Winnie the Pooh seem to enjoy each other's company. 
 
 ![alt text](Images/Book2VecSample7.JPG)
 
-Top right has some classic plays. To the bottom left of that there seems to be writings that tend to be cited as having significant cultural influence (Utopia, The Communist Manifesto, The Republic, The Prince, The Art of War). Further left are more classics. At the left there's a section for Kurt Vonnegut books. At the bottom there's many early to mid 20th century classics. On the right there's a section of books by Charlotte Brontë and Jane Austen.
-
+Top right has some classic plays. To the bottom left of that, there seems to be writings that tend to be cited as having significant cultural influence (Utopia, The Communist Manifesto, The Republic, The Prince, The Art of War). Further left are more classics. At the left there's a section for Kurt Vonnegut books. At the bottom there are many early to mid 20th century classics. On the right there's a section of books by Charlotte Brontë and Jane Austen.
 
 ![alt text](Images/Book2VecSample8.JPG)
 
@@ -55,21 +54,21 @@ Lots of classic non-picture childrens books on the left side. Lord of the Rings 
 
 ![alt text](Images/Book2VecSample9.JPG)
 
-This section has modern (90's to current) childrens books series. A Series of Unfortunate Events. Harry Potter, Artemis Fowl, Alex Rider, Inkworld, Inheritance Cycle, etc. 
+This section has modern (written in the 90's to current) childrens books series. A Series of Unfortunate Events. Harry Potter, Artemis Fowl, Alex Rider, Inkworld, Inheritance Cycle, etc. 
 
 ![alt text](Images/Book2VecSample10.JPG)
 
-These books all seem to have informational elements. This section has the most fascinating trends to me. I still haven't fully interpreted these trends but here are the ones I noticed so far. 
+These books all seem to have informational themes. This section has the most fascinating trends to me. I still haven't fully interpreted these trends but here are the ones I noticed so far. 
 
-The top right seem to be focused on relationship informaion, and below that are books focused on financial and organizational success (Think and Grow Rich, The 7 Habits of Highly Effective People, etc).  Elon Musk's biography is in that section, which seems to be a favorite of Silicon Valley Tech people. The the books on the middle right are productivity themed, (The 4-hour workweek, Flow:The Psycology ofPtimal Experience ). 
+The top right seem to be focused on relationship informaion, and below that are books focused on financial, career,  and organizational success (Think and Grow Rich, The 7 Habits of Highly Effective People, etc).  Elon Musk's biography is in that section, which seems to be a favorite of Silicon Valley tech start-up people. The the books on the middle right are productivity themed, (The 4-hour workweek, Flow: The Psycology of Optimal Experience ). 
 
-The books in the middle have more of a narrative/story elements: Walter Issacson books , Michael Lewis books, Deliverying Happyness. The the right of that is books about startups. The bottom left has books on food and plant life. 
+The books in the middle have more narrative elements: Walter Issacson books, Michael Lewis books, Deliverying Happyness. To the right of that are books about startups. The bottom left has books on food and plant life. 
 
 The middle right is focused on art-based informational books. 
 
 ![alt text](Images/Book2VecSample12.JPG)
 
-This section continues the informational trend above, themes more ofcused on history. 
+This section continues the informational trend above, themes more focused on history. 
 
 ![alt text](Images/Book2VecSample11.JPG)
 
@@ -77,11 +76,11 @@ This picture continues the historical trend above. The right side tends to have 
 
 ![alt text](Images/Book2VecSample15.JPG)
 
-This section is focused on comedy, particularly by those working in television comedy.  
+This section is focused on comedy, particularly by those working in television industry.  
 
 ![alt text](Images/Book2VecSample13.JPG)
 
-A young adult section, the right side is focused on dystopia and paranormal themed books, the left side is more realist. 
+A young adult section, the right side is focused on dystopia and paranormal elements, the left side is more realist. 
 
 ![alt text](Images/Book2VecSample14.JPG)
 
@@ -89,14 +88,13 @@ These section tends to have books with female main characters.
 
 ![alt text](Images/Book2VecSample16.JPG)
 
+Full map of the 3000 vector TNSE. You'll have to zoom in real close to make out the text. It might be easier to download the picture. 
 
-Full map of the 3000 vector TNSE. You'll have to zoom in real close to make out the text. 
-
-I'll make more for the other 7000 vectors but Google Colab seems to be only able to handle 3000-3500 vectors, even on GPU mode, so I'll probably have to make 2 or 3 more maps. 
+I'll make more for the other 7000 vectors but Google Colab seems to be only able to handle 3000-3500 vectors, even on GPU mode (GPU mode doesn't seem to make a difference though), so I'll probably have to make 2 or 3 more maps. 
 
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
-The following images show examples of the similiarity properties of the book vectors. 
+The following images show examples of the book vectors' similiarity properties. Similiarity was measured via dot product. 
 
 ![alt-text-1](Images/sim1.JPG) ![alt-text-2](Images/sim2.JPG)
 ![alt text](Images/sim3.JPG) ![alt text](Images/sim4.JPG)
