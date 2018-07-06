@@ -66,7 +66,8 @@ The books in the middle have more narrative elements: Walter Issacson books, Mic
 
 The middle right is focused on art-based informational books. 
 
-![alt text](Images/Book2VecSample12.JPG)
+![alt text](Images/Book2VecSample13.JPG)
+
 
 This section continues the informational trend above, themes more focused on history. 
 
@@ -78,7 +79,7 @@ This picture continues the historical trend above. The right side tends to have 
 
 This section is focused on comedy, particularly by those working in television industry.  
 
-![alt text](Images/Book2VecSample13.JPG)
+![alt text](Images/Book2VecSample12.JPG)
 
 A young adult section, the right side is focused on dystopia and paranormal elements, the left side is more realist. 
 
