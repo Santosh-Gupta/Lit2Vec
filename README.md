@@ -18,7 +18,7 @@ These notebooks are set up to download these files from your Google Drive, and w
 
 The following images are from a single 2D TNSE plot of the resulting book embeddings. This particular TNSE plotted 3000 books (out of 10,000 book vectors that were trained)
 
-This section contains modern fantasty/high fantasy. 
+This section contains fantasty/high fantasy written within the last 30-40 years. 
 
 ![alt text](Images/Book2VecSample1.JPG)
 
