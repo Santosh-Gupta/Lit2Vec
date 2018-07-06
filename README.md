@@ -14,7 +14,7 @@ and can be found here
 
 https://github.com/zygmuntz/goodbooks-10k
 
-These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive. 
+These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive. So if you would like to use these notebooks as it, download the files from the link above, and upload them to your Google Drive. 
 
 The following images are from a 2D TNSE plotting the resulting book embeddings. This particular TNSE plotted 3000 books (out of 10,000 book vectors that were trained)
 
