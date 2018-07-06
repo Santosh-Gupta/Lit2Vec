@@ -38,7 +38,7 @@ Pre-20th century classics which seem to be grouped by time-period and author.
 
 ![alt text](Images/Book2VecSample5.JPG)
 
-The top right is having a Stephan King party and the bottom left side having a Michael Crichton party. Perhaps they're grouped together because their books have a thrilling / horror quality. The Dark Tower books which have more of a fantasy quality are placed on the opposite side of Michael Crichton books. 
+The top right is having a Stephan King party and the bottom left side is having a Michael Crichton party. Perhaps they're grouped together because their books have a thrilling / horror quality. The Dark Tower books which have more of a fantasy quality are placed on the opposite side of Michael Crichton books. 
 
 ![alt text](Images/Book2VecSample6.JPG)
 
