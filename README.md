@@ -53,7 +53,7 @@ Twilight Graphic Novel - Twilight + Coraline = Coraline Graphic Novel (in top 2 
 
 ![alt text](Images/va2.JPG)
 
-Winnie-The-Pooh + Zen = Zen Pooh
+Winnie-The-Pooh + Eastern Philosophy =  Pooh Eastern Philosophy
 
 ![alt text](Images/va3.JPG)
 
