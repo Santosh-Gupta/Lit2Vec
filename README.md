@@ -70,5 +70,3 @@ Vampire Romance - Vampire = Romance
 ![alt text](Images/va6.JPG)
 
 
-
-![alt text](Images/va7.JPG)
