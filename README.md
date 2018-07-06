@@ -43,3 +43,32 @@ The following images show samples of showing which vectors are most similiar to 
 ![alt text](Images/sim5.JPG) ![alt text](Images/sim6.JPG)
 ![alt text](Images/sim7.JPG)
 
+The following images show some of the arithmetic properties of the book vectors. Although these properties are not as robust as word vectors' arithmetic properties, I hope to improve these with better hyperparameter optimization and more data. But in the meanwhile, here are some of the more interesting results I found. 
+
+Vampire Classic - Vampire = Classics
+
+![alt text](Images/va1.JPG)
+
+Twilight Graphic Novel - Twilight + Coraline = Coraline Graphic Novel (in top 2 vectors returned)
+
+![alt text](Images/va2.JPG)
+
+Winnie-The-Pooh + Zen = Zen Pooh
+
+![alt text](Images/va3.JPG)
+
+Romance Classic - Classic = Romance 
+
+![alt text](Images/va4.JPG)
+
+Neil Gaiman Childrens' - Neil Gaiman = Childrens'
+
+![alt text](Images/va5.JPG)
+
+Vampire Romance - Vampire = Romance
+
+![alt text](Images/va6.JPG)
+
+
+
+![alt text](Images/va7.JPG)
