@@ -6,7 +6,7 @@ Representing Books as vectors using the Word2Vec algorithm
 
 Using the Cbow version of the Word2Vec algorithm on Goodreads data, vectors were trained to represent books. 
 
-This repository includes Google Colab notebooks used to analyze and clean the original goodreads data, train the book vectors, and analyze the vectors. 
+This repository includes the Google Colab notebooks used to clean the original goodreads data, train the book vectors, and analyze the vectors. 
 
 These notebooks requires the 'ratings.csv' and the 'books.csv' files which are described here
 
@@ -16,7 +16,7 @@ and can be found here
 
 https://github.com/zygmuntz/goodbooks-10k
 
-These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive file. 
+These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive. 
 
 The following images are from a 2D TNSE plotting the resulting book embeddings. This particular TNSE plotted 3000 books (out of 10,000 book vectors that were trained)
 
@@ -38,11 +38,11 @@ The following images are from a 2D TNSE plotting the resulting book embeddings. 
 ![alt text](Images/Book2VecSample16.JPG)
 
 
-This is the full map containing all 3000 vectors. 
+Full map of the 3000 vectors. 
 
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
-The following images show samples of showing which vectors are most similiar to a particular book. 
+The following images show samples of the similiarity properties of the book vectors. 
 
 ![alt-text-1](Images/sim1.JPG) ![alt-text-2](Images/sim2.JPG)
 ![alt text](Images/sim3.JPG) ![alt text](Images/sim4.JPG)
