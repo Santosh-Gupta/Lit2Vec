@@ -8,9 +8,13 @@ Using the Cbow version of the Word2Vec algorithm on Goodreads data, vectors were
 
 This repository includes Google Colab notebooks used to analyze and clean the original goodreads data, train the book vectors, and analyze the vectors. 
 
-These notebooks requires the 'ratings.csv' and the 'books.csv' files which can be found here
+These notebooks requires the 'ratings.csv' and the 'books.csv' files which are described here
 
 http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
+
+and can be found here
+
+https://github.com/zygmuntz/goodbooks-10k
 
 These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive file. 
 
