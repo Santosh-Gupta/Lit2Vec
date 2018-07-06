@@ -30,7 +30,7 @@ This section has space-focused sci-fi. There's a small section of Chuck Palahniu
 
 ![alt text](Images/Book2VecSample3.JPG)
 
-The books at the top as Neil Gaiman's. I'm not familiar with the other books but they seem to have an element of Neil Gaiman's style of paranormal/magic/sci-fi with a humorous style. 
+The books at the top is a Neil Gaiman's section. I'm not familiar with the other books but they seem to have an element of Neil Gaiman's style of paranormal/magic/sci-fi with a humorous style. 
 
 ![alt text](Images/Book2VecSample4.JPG)
 
