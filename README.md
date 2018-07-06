@@ -66,12 +66,11 @@ The books in the middle have more narrative elements: Walter Issacson books, Mic
 
 The middle right is focused on art-based informational books. 
 
-![alt text](Images/Book2VecSample13.JPG)
-
+![alt text](Images/Book2VecSample11.JPG)
 
 This section continues the informational trend above, themes more focused on history. 
 
-![alt text](Images/Book2VecSample11.JPG)
+![alt text](Images/Book2VecSample13.JPG)
 
 This picture continues the historical trend above. The right side tends to have historical ficion books. The middle is focused on American history. 
 
