@@ -96,9 +96,18 @@ I'll make more for the other 7000 vectors but Google Colab seems to be only able
 
 The following images show examples of the book vectors' similiarity properties. Similiarity was measured via dot product. 
 
-![alt-text-1](Images/sim1.JPG) ![alt-text-2](Images/sim2.JPG)
-![alt text](Images/sim3.JPG) ![alt text](Images/sim4.JPG)
-![alt text](Images/sim5.JPG) ![alt text](Images/sim6.JPG)
+![alt-text-1](Images/sim1.JPG) 
+
+![alt-text-2](Images/sim2.JPG)
+
+![alt text](Images/sim3.JPG) 
+
+![alt text](Images/sim4.JPG)
+
+![alt text](Images/sim5.JPG) 
+
+![alt text](Images/sim6.JPG)
+
 ![alt text](Images/sim7.JPG)
 
 The following images show some of the arithmetic properties of the book vectors. Although these properties are not as robust as word vectors' arithmetic properties, I hope to improve these with better hyperparameter optimization and more data. But in the meanwhile, here are some of the more interesting results I found. 
