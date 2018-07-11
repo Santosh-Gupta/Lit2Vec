@@ -146,4 +146,5 @@ https://giant.gfycat.com/InfamousGrippingDeinonychus.webm
 
 <img src="https://giant.gfycat.com/InfamousGrippingDeinonychus.webm">
 
-<a href="https://giant.gfycat.com/InfamousGrippingDeinonychus.webm" rel="Video"></a>
+<a href="https://giant.gfycat.com/InfamousGrippingDeinonychus.webm" rel="Video"><img src="http://web.cecs.pdx.edu/~fliu/project/sepconv/screen.jpg" alt="Video" width="100%"></a>
+
