@@ -143,3 +143,11 @@ Smaller batch sizes (32 and 64) durng training are very important to making sure
 https://gfycat.com/InfamousGrippingDeinonychus
 
 https://giant.gfycat.com/InfamousGrippingDeinonychus.webm
+
+1
+
+<iframe src='https://gfycat.com/ifr/InfamousGrippingDeinonychus' frameborder='0' scrolling='no' width='1920' height='1048' allowfullscreen></iframe>
+
+2
+
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/InfamousGrippingDeinonychus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
