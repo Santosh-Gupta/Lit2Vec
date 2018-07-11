@@ -136,4 +136,10 @@ Vampire Romance - Vampire = Romance
 
 ![alt text](Images/va6.JPG)
 
+Takeaways (Stuff for other Machine Learning fans)
 
+Smaller batch sizes (32 and 64) durng training are very important to making sure robust similiarity properties for all book vectors. 
+
+https://gfycat.com/InfamousGrippingDeinonychus
+
+https://giant.gfycat.com/InfamousGrippingDeinonychus.webm
