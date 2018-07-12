@@ -2,6 +2,11 @@
 
 (In progress, will be updating over the next week)
 
+Updates 7-12-18: 
+-I am adding more content at the bottom about the importance of smaller batch sizes when training on this data. 
+-I will eventually move this to https://github.com/Santosh-Gupta/Lit2Vec since Book2Vec has been used before in describing the representation of books as vectors, but using a different method training method (Doc2Vec). You can read about it here http://www.aclweb.org/anthology/E17-1114 . 
+-Next updates will be describing more about the arithmetic properties of the vectors. 
+
 Using the Cbow version of the Word2Vec algorithm on Goodreads data, vectors were trained to represent books. 
 
 This repository includes the Google Colab notebooks used to clean the original goodreads data, train the book vectors, and analyze the vectors. 
