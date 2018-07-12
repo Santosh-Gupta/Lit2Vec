@@ -38,3 +38,5 @@ GoodReadsDataClean.ipynb is the code I used to analyze and clean the data.
 Book2VecTraining.ipynb is the code I used to train the data. 
 
 Book2VecAnalyzeEmbeddings.ipynb is the code I used to analyze the embeddings. 
+
+(more instructions coming soon)
