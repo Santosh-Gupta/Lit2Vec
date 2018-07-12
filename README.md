@@ -10,9 +10,9 @@ Updates 7-12-18:
 
 -I will eventually move this to https://github.com/Santosh-Gupta/Lit2Vec since Book2Vec has been used before in describing the representation of books as vectors, but using a different method training method (Doc2Vec). You can read about it here http://www.aclweb.org/anthology/E17-1114 .
 
--Next updates will be describing more about the arithmetic properties of the vectors. 
-
 -Created at HowTo.md file in the repository with some helpful detail on how to run the notebook and input the required files. 
+
+-Next updates will be describing more about the arithmetic properties of the vectors, and more detail in the  HowTo.md file on how to run the notebooks, for those not familiar with Google Colaboratory. 
 
 --------------------------------------------------------------------------------
 
