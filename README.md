@@ -138,6 +138,8 @@ Vampire Romance - Vampire = Romance
 
 Takeaways (Stuff for other Machine Learning fans)
 
+-Smaller Batch Sizes
+
 Smaller batch sizes (32 and 64) durng training are very important to making sure robust similiarity properties for all book vectors. At higher batch sizes (128, 256, and 512) most of the vectors had decent similiarity properties but there always seemed to be a few books whose vectors did not have decent similiarity properties (based purely on my domain knowledge of the data, aka knowing which books should be most similiar to certain books). 
 
 In the case of Harry Potter books 2-7, from looking directly at the data, I knew that the most similiar books to these should be other Harry Potter books in the series, but this was not the case, even after 100 epoches. However, when I switched to batch size 64, the similiarty properties for Harry Potter books 2-7 improved significantly after only a few epoches. This is demonstracted in the gif below (you probably have to tinker with the notebooks to know what's going on ). 
@@ -153,7 +155,7 @@ I am not 100% sure what this is so, but this is my best guess:
 
 Since the average window size is 112 and varies from 20 to 200 (depending on how many books a user has read), there was high probability that a particular book in a series like Harry Potter would get paired other books instead of Harry Potter. Say that there were 7 books in the series and the user had rated all 7 of them, and this user has also rated 112 other books; the probability of a Harry Potter book being paired with another Harry Potter book as a label for that user is 6/112. In this case, I theorized that maybe higher batch sizes would hinder the optimization more significantly than an application of the word2vec algorithm for a small and constant window size since it is trying to optimize many embeddings at once. 
 
+-Softmax Embeddings for Vector Arithmetic
 
-
-
+So far, all the vector arithmetic examples above are cases where I performing the addition and/or subtraction on the book input embeddings, and then performing similiarity on the resulting vector against the softmax embeddings. The results were much more robust than comparing the resulting vector to the input embeddings. 
 
