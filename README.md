@@ -160,7 +160,7 @@ Takeaways (Stuff for other Machine Learning fans)
 
 Smaller batch sizes (32 and 64) durng training are very important to making sure robust similiarity properties for all book vectors. At higher batch sizes (128, 256, and 512) most of the vectors had decent similiarity properties but there always seemed to be a few books whose vectors did not have decent similiarity properties (based purely on my domain knowledge of the data, aka knowing which books should be most similiar to certain books). 
 
-In the case of Harry Potter books 2-7, from looking directly at the data, I knew that the most similiar books to these should be other Harry Potter books in the series, but this was not the case, even after 100 epoches. However, when I switched to batch size 64, the similiarty properties for Harry Potter books 2-7 improved significantly after only a few epoches. This is demonstracted in the gif below (you probably have to tinker with the notebooks to know what's going on ). 
+In the case of Harry Potter books 2-7, from looking directly at the data, I knew that the most similiar books to these should be other Harry Potter books in the series, but this was not the case, even after 100 epoches (ignore the number in the gif, I didn't include a variable to keep track of the total epoches in the checkpoint file until ~60 or so epoches). However, when I switched to batch size 64, the similiarty properties for Harry Potter books 2-7 improved significantly after only a few epoches. This is demonstracted in the gif below (you probably have to tinker with the notebooks to know what's going on ). 
 
 ![alt text](Images/HarryPotterSmallBatch.gif)
 
