@@ -6,6 +6,7 @@ Updates 7-12-18:
 -I am adding more content at the bottom about the importance of smaller batch sizes when training on this data. 
 -I will eventually move this to https://github.com/Santosh-Gupta/Lit2Vec since Book2Vec has been used before in describing the representation of books as vectors, but using a different method training method (Doc2Vec). You can read about it here http://www.aclweb.org/anthology/E17-1114 . 
 -Next updates will be describing more about the arithmetic properties of the vectors. 
+-Created at HowTo.md file in the repository with some helpful detail on how to run the notebook and input the required files. 
 
 Using the Cbow version of the Word2Vec algorithm on Goodreads data, vectors were trained to represent books. 
 
@@ -19,7 +20,11 @@ and can be found here
 
 https://github.com/zygmuntz/goodbooks-10k
 
+In addition to these files, if you would like to run the 
+
 These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive. So if you would like to use these notebooks as is, download the files from the link above, and upload them to your Google Drive. 
+
+For more information on how to run the notebooks, click on the HowTo.md file located in this repository. 
 
 The following images are from a single 2D TNSE plot of the resulting book embeddings. This particular TNSE plotted 3000 books (out of 10,000 book vectors that were trained)
 
