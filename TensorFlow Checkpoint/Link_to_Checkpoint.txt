@@ -1,5 +1,8 @@
-Since Github's file size upload limit is 25 mbs, I was not able to upload the checkpoint file here. So instead I have provided a direct Google Drive link to my checkpoint file
+Since Github's file size upload limit is 25 mbs, I was not able to upload the checkpoint file here. So instead I have provided a 
+direct Google Drive link to my checkpoint file
 
-The hyperparameters are the same as the one's in the file included in this repository. The number of samples taken and averaged for the input in this checkpoint is 2 (cbow_window =1). I will eventually release checkpoints where the numbers of samples taken and averaged are 3, 4, and 5. 
+The hyperparameters are the same as the one's in the file included in this repository. The number of 
+samples taken and averaged for the input in this checkpoint is 2 (cbow_window =1). I will eventually 
+release checkpoints where the numbers of samples taken and averaged are 3, 4, and 5. 
 
 https://drive.google.com/open?id=1fe5WTpjAaoKivd2XA1hvU0TmVXTkwGK3
