@@ -144,7 +144,6 @@ https://gfycat.com/InfamousGrippingDeinonychus
 
 https://giant.gfycat.com/InfamousGrippingDeinonychus.webm
 
-<img src="https://giant.gfycat.com/InfamousGrippingDeinonychus.webm">
+![alt text](Images/HarryPotterSmallBatch.gif)
 
-<a href="https://giant.gfycat.com/InfamousGrippingDeinonychus.webm" rel="Video"><img src="https://raw.githubusercontent.com/Santosh-Gupta/Book2Vec/master/Images/HarryPotterTransformation.JPG" alt="Video" width="100%"></a>
 
