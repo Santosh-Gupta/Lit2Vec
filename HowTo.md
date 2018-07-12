@@ -1,5 +1,7 @@
 This repository includes the Google Colab notebooks used to clean the original goodreads data, train the book vectors, and analyze the vectors. 
 
+#Files
+
 These notebooks requires the 'ratings.csv' and the 'books.csv' files which are described here
 
 http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/
@@ -26,3 +28,13 @@ The numbers after the '=' sign is the file ID. Copy just that part
 And paste it. For example
 
 ![alt text](Images/Example1.JPG)
+
+#Notebook Descriptions
+
+There are 3 notebooks in this repository; their names are Book2VecAnalyzeEmbeddings.ipynb , Book2VecTraining.ipynb, and GoodReadsDataClean.ipynb. 
+
+GoodReadsDataClean.ipynb is the code I used to analyze and clean the data. 
+
+Book2VecTraining.ipynb is the code I used to train the data. 
+
+Book2VecAnalyzeEmbeddings.ipynb is the code I used to analyze the embeddings. 
