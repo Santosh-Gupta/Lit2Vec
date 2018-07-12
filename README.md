@@ -2,6 +2,8 @@
 
 (In progress, will be updating over the next week)
 
+--------------------------------------------------------------------------------
+
 Updates 7-12-18: 
 
 -I am adding more content at the bottom about the importance of smaller batch sizes when training on this data. 
@@ -11,6 +13,8 @@ Updates 7-12-18:
 -Next updates will be describing more about the arithmetic properties of the vectors. 
 
 -Created at HowTo.md file in the repository with some helpful detail on how to run the notebook and input the required files. 
+
+--------------------------------------------------------------------------------
 
 Using the Cbow version of the Word2Vec algorithm on Goodreads data, vectors were trained to represent books. 
 
