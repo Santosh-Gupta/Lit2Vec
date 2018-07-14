@@ -39,4 +39,9 @@ Book2VecTraining.ipynb is the code I used to train the data.
 
 Book2VecAnalyzeEmbeddings.ipynb is the code I used to analyze the embeddings. 
 
-(more instructions coming soon)
+If you would like to skip the data filtering and go straight to training on the Book2VecTraining.ipynb notebook, I included links to filtered data in the FilteredData folder of this repository. Here is a direct link https://github.com/Santosh-Gupta/Book2Vec/tree/master/FilteredData . 
+If you want to use the notebooks as it, you will need to upload the file to your own Google Drive and provide the file ID when prompted. 
+
+If you would like to skip the training part and go straight to analyzing the trained models in the Book2VecAnalyzeEmbeddings.ipynb notebook, I included links to my Tensorflow checkpoints file in the TensorFlow Checkpoint folder of this repository. Here is a direct link https://github.com/Santosh-Gupta/Book2Vec/tree/master/TensorFlow%20Checkpoint . 
+If you want to use the notebooks as it, you will need to upload the file to your own Google Drive and provide the file ID when prompted. 
+
