@@ -6,7 +6,7 @@
 
 Updates 7-16-18:
 
--I added a new notebook for creating T-SNE maps for embeddings closest to a particular book. The name of the notebook is called Book2VecIndividualBookMaps.ipynb . Several sample T-SNE images are included below. 
+-I added a new notebook for creating T-SNE maps for embeddings closest to a particular book. The name of the notebook is called Book2VecIndividualBookMaps.ipynb . Several sample T-SNE book maps images are displayed below. 
 
 
 --------------------------------------------------------------------------------
