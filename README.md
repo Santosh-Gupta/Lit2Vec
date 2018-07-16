@@ -119,7 +119,7 @@ I'll make more for the other 7000 vectors but Google Colab seems to be only able
 
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
-#Similiarity Properties
+# Similiarity Properties
 
 The following images show examples of the book vectors' similiarity properties. Similiarity was measured via dot product. 
 
@@ -138,7 +138,7 @@ The following images show examples of the book vectors' similiarity properties. 
 ![alt text](Images/sim7.JPG)
 
 
-#Arithmetic Properties
+# Arithmetic Properties
 
 The following images show some of the arithmetic properties of the book vectors. Although these properties are not as robust as word vectors' arithmetic properties, I hope to improve these with better hyperparameter optimization and more data. But in the meanwhile, here are some of the more interesting results I found. 
 
@@ -166,7 +166,7 @@ Vampire Romance - Vampire = Romance
 
 ![alt text](Images/va6.JPG)
 
-#Individual Bookmaps
+# Individual Bookmaps
 
 The following are images of T-SNE plots that map the closest 500 embeddings for a particular book. 
 
@@ -176,12 +176,12 @@ Harry Potter and the Sorcerer's Stone by J.K Rowling(for very popular books I fi
 
 Dune by Frank Herbert
 
-![alt text](Images/Dune.JPG)
+![alt text](Images/Dune.jpg)
 
 Game of Thrones Clash A Clash of Kings by George R. R. Martin
  (for very popular books I find it better to use the 2nd or 3rd book from the series to represent the whole series)
 
-![alt text](Images/ClashKings.JPG)
+![alt text](Images/ClashKings.jpg)
 
 A Brief History of Time by Stephen Hawking
 
@@ -197,7 +197,7 @@ Steve Jobs by Walter Isaacson
 
 
 
-#Takeaways (Stuff for other Machine Learning fans)
+# Takeaways (Stuff for other Machine Learning fans)
 
 -Smaller Batch Sizes
 
