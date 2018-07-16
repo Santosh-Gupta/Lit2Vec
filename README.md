@@ -2,6 +2,13 @@
 
 (In progress, will be updating over the next week)
 
+---------------------------------------------------------------------------------
+
+Updates 7-16-18:
+
+-I added a new notebook for creating T-SNE maps for embeddings closest to a particular book. The name of the notebook is called Book2VecIndividualBookMaps.ipynb . Several sample T-SNE images are included below. 
+
+
 --------------------------------------------------------------------------------
 
 Updates 7-12-18: 
@@ -34,7 +41,7 @@ These notebooks are set up to download these files from your Google Drive, and w
 
 For more information on how to run the notebooks, click on the HowTo.md file located in this repository. 
 
-The following images are from a single 2D TNSE plot of the resulting book embeddings. This particular TNSE plotted 3000 books (out of 10,000 book vectors that were trained)
+The following images are from a single 2D T-NSE plot of the resulting book embeddings. This particular TNSE plotted 3000 books (out of 10,000 book vectors that were trained)
 
 This section contains fantasty/high fantasy written within the last 30-40 years. 
 
@@ -112,6 +119,8 @@ I'll make more for the other 7000 vectors but Google Colab seems to be only able
 
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
+#Similiarity Properties
+
 The following images show examples of the book vectors' similiarity properties. Similiarity was measured via dot product. 
 
 ![alt-text-1](Images/sim1.JPG) 
@@ -127,6 +136,9 @@ The following images show examples of the book vectors' similiarity properties. 
 ![alt text](Images/sim6.JPG)
 
 ![alt text](Images/sim7.JPG)
+
+
+#Arithmetic Properties
 
 The following images show some of the arithmetic properties of the book vectors. Although these properties are not as robust as word vectors' arithmetic properties, I hope to improve these with better hyperparameter optimization and more data. But in the meanwhile, here are some of the more interesting results I found. 
 
@@ -154,7 +166,38 @@ Vampire Romance - Vampire = Romance
 
 ![alt text](Images/va6.JPG)
 
-Takeaways (Stuff for other Machine Learning fans)
+#Individual Bookmaps
+
+The following are images of T-SNE plots that map the closest 500 embeddings for a particular book. 
+
+Harry Potter and the Sorcerer's Stone by J.K Rowling(for very popular books I find it better to use the 2nd or 3rd book from the series to represent the whole series)
+
+![alt text](Images/EachBook.jpg)
+
+Dune by Frank Herbert
+
+![alt text](Images/Dune.JPG)
+
+Game of Thrones Clash A Clash of Kings by George R. R. Martin
+ (for very popular books I find it better to use the 2nd or 3rd book from the series to represent the whole series)
+
+![alt text](Images/ClashKings.JPG)
+
+A Brief History of Time by Stephen Hawking
+
+![alt text](Images/BriefHistoryTime.jpg)
+
+The Hitchhiker's Guide to the Galaxy by Douglas Adams
+
+![alt text](Images/HitchhikerGuideGalaxy.jpg)
+
+Steve Jobs by Walter Isaacson
+
+![alt text](Images/SteveJobs.jpg)
+
+
+
+#Takeaways (Stuff for other Machine Learning fans)
 
 -Smaller Batch Sizes
 
