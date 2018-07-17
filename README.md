@@ -207,11 +207,6 @@ In the case of Harry Potter books 2-7, from looking directly at the data, I knew
 
 ![alt text](Images/HarryPotterSmallBatch.gif)
 
-https://gfycat.com/InfamousGrippingDeinonychus
-
-https://giant.gfycat.com/InfamousGrippingDeinonychus.webm
-
-
 I am not 100% sure what this is so, but this is my best guess:
 
 Since the average window size is 112 and varies from 20 to 200 (depending on how many books a user has read), there was high probability that a particular book in a series like Harry Potter would get paired other books instead of Harry Potter. Say that there were 7 books in the series and the user had rated all 7 of them, and this user has also rated 112 other books; the probability of a Harry Potter book being paired with another Harry Potter book as a label for that user is 6/112. In this case, I theorized that maybe higher batch sizes would hinder the optimization more significantly than an application of the word2vec algorithm for a small and constant window size since word2vec is trying to optimize many embeddings at once. 
@@ -219,4 +214,13 @@ Since the average window size is 112 and varies from 20 to 200 (depending on how
 -Softmax Embeddings for Vector Arithmetic
 
 So far, all the vector arithmetic examples above are cases where I performing the addition and/or subtraction on the book input embeddings, and then performing similiarity on the resulting vector against the softmax embeddings. The results were much more robust than comparing the resulting vector to the input embeddings. 
+
+-Variable Length Window  (VLW)
+
+In the original Word2Vec Cbow algorithm, there is a fixed window size of words to be used as input for a particular target. For example, if the window size is 2 words to the left and to the right of a target word, in this sentence "The cat in the hat", if the target word (label) is 'in', then the words 'The', 'cat', 'the', and 'hat' would have their vectors averaged, and the resulting vector would be used as the input. 
+
+In this project, having a fixed window size is not possible. For a particular data point (input), all the potential labels are all other books rated by the user who rated the book of the input, and there is a lot of variation in the number of books each user has reviewed, so window sized was not constant. 
+
+Although the window sized was not constant, the number of input vectors to average was kept constant. All of the data presented used 2 averaged vectors as the input, since this seemed to have resulted in the most robust arithmetic properties for the vectors. There were no noticeable advantages in similiarity properties for any number of vectors averaged for the input; I have looked at vectors that were trained with using 4 and 6  averaged vectors as the input. 
+
 
