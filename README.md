@@ -2,12 +2,17 @@
 
 (In progress, will be updating over the next week)
 
+--------------------------------------------------------------------------------
+
+Update 7-17-18
+
+-I added a section on why the window size was not kept constant. 
+
 ---------------------------------------------------------------------------------
 
-Updates 7-16-18:
+Update 7-16-18
 
 -I added a new notebook for creating T-SNE maps for embeddings closest to a particular book. The name of the notebook is called Book2VecIndividualBookMaps.ipynb . Several sample T-SNE book maps images are displayed below. 
-
 
 --------------------------------------------------------------------------------
 
