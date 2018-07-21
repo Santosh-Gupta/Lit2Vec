@@ -177,28 +177,66 @@ The following are images of T-SNE plots that map the closest 500 embeddings for 
 
 Harry Potter and the Sorcerer's Stone by J.K Rowling(for very popular books I find it better to use the 2nd or 3rd book from the series to represent the whole series)
 
+Zoomed in preview
+
+![alt text](Images/BookMaps/HarryPotterPreview.JPG)
+
+Full BookMap
+
 ![alt text](Images/EachBook.jpg)
 
 Dune by Frank Herbert
+
+Zoomed in preview
+
+![alt text](Images/BookMaps/DunePreview.JPG)
+
+Full BookMap
 
 ![alt text](Images/Dune.jpg)
 
 Game of Thrones Clash A Clash of Kings by George R. R. Martin
  (for very popular books I find it better to use the 2nd or 3rd book from the series to represent the whole series)
+ 
+ Zoomed in preview
+
+![alt text](Images/BookMaps/ClashKingsPreview.JPG)
+
+Full BookMap
 
 ![alt text](Images/ClashKings.jpg)
 
 A Brief History of Time by Stephen Hawking
 
+Zoomed in preview
+
+![alt text](Images/BookMaps/BriefHistoryTimePreview.JPG)
+
+Full BookMap
+
 ![alt text](Images/BriefHistoryTime.jpg)
 
 The Hitchhiker's Guide to the Galaxy by Douglas Adams
+
+Zoomed in preview
+
+![alt text](Images/BookMaps/HitchhikerGalaxyPreview.JPG)
+
+Full BookMap
 
 ![alt text](Images/HitchhikerGuideGalaxy.jpg)
 
 Steve Jobs by Walter Isaacson
 
+Zoomed in preview
+
+![alt text](Images/BookMaps/SteveJobsPreview.JPG)
+
+Full BookMap
+
 ![alt text](Images/SteveJobs.jpg)
+
+Slaughterhouse-Five by
 
 
 
