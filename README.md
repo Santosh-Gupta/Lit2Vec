@@ -260,13 +260,61 @@ Night Watch (Discworld) by Terry Pratchett
 
 Zoomed in preview
 
-![alt text](Images/BookMaps/Siddhartha.jpg)
+![alt text](Images/BookMaps/NightWatch (1).jpg)
 
 Full BookMap
 
-![alt text](Images/BookMaps/SiddharthaPreview.jpg)
+![alt text](Images/BookMaps/NightWatchPreview.JPG)
 
+Night Watch (Discworld) by Terry Pratchett
 
+Zoomed in preview
+
+![alt text](Images/BookMaps/NightWatch (1).jpg)
+
+Full BookMap
+
+![alt text](Images/BookMaps/NightWatchPreview.JPG)
+
+The Martian by Andy Weir
+
+Zoomed in preview
+
+![alt text](Images/BookMaps/Martian.jpg)
+
+Full BookMap
+
+![alt text](Images/BookMaps/MartianPreview.JPG)
+
+11/22/63 by Stephen King 
+
+Zoomed in preview
+
+![alt text](Images/BookMaps/JKFTimeTravel.jpg)
+
+Full BookMap
+
+![alt text](Images/BookMaps/11-22-63Preview.JPG)
+
+11/22/63 by Stephen King 
+
+Zoomed in preview
+
+![alt text](Images/BookMaps/JKFTimeTravel.jpg)
+
+Full BookMap
+
+![alt text](Images/BookMaps/11-22-63Preview.JPG)
+
+East of Eden by John Steinbeck
+
+Zoomed in preview
+
+![alt text](Images/BookMaps/EastEden.jpg)
+
+Full BookMap
+
+![alt text](Images/BookMaps/EastEdenPreview.JPG)
 
 # Takeaways (Stuff for other Machine Learning fans)
 
