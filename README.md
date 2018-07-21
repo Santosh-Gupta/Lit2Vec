@@ -236,7 +236,7 @@ Full BookMap
 
 ![alt text](Images/SteveJobs.jpg)
 
-Slaughterhouse-Five by
+Slaughterhouse-Five by Kurt Vonnegut
 
 
 
