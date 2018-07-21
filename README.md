@@ -238,6 +238,34 @@ Full BookMap
 
 Slaughterhouse-Five by Kurt Vonnegut
 
+Zoomed in preview
+
+![alt text](Images/BookMaps/Slaughterhouse-Five.jpg)
+
+Full BookMap
+
+![alt text](Images/BookMaps/Slaughterhouse-FivePreview.jpg)
+
+Siddhartha by Hermann Hesse
+
+Zoomed in preview
+
+![alt text](Images/BookMaps/Siddhartha.jpg)
+
+Full BookMap
+
+![alt text](Images/BookMaps/SiddharthaPreview.jpg)
+
+Night Watch (Discworld) by Terry Pratchett
+
+Zoomed in preview
+
+![alt text](Images/BookMaps/Siddhartha.jpg)
+
+Full BookMap
+
+![alt text](Images/BookMaps/SiddharthaPreview.jpg)
+
 
 
 # Takeaways (Stuff for other Machine Learning fans)
