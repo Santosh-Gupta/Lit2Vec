@@ -1,6 +1,6 @@
 # Book2Vec
 
-(In progress, will be updating over the next week)
+(Still in progress, will be completed by 8-20-18)
 
 --------------------------------------------------------------------------------
 
