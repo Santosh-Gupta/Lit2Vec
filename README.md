@@ -342,6 +342,12 @@ In this project, having a fixed window size is not possible. For a particular da
 
 Although the window sized was not constant, the number of input vectors to average was kept constant. All of the data presented used 2 averaged vectors as the input, since this seemed to have resulted in the most robust arithmetic properties for the vectors. There were no noticeable advantages in similiarity properties for any number of vectors averaged for the input; I have looked at vectors that were trained with using 4 and 6  averaged vectors as the input. 
 
+# Future plans / projects
+
+I plan on doing the same thing for research papers. I'll need people who have read a lot of papers in the biomedical, neuroscience, or CS fields to help evaluate these embeddings. If you have read a lot of papers in one of those fields and would like to help, please reach out!
+
 # Shoutouts!
 
 ![alt text](Images/SpecialThanks/BeSpokeMedia.png)
+
+
