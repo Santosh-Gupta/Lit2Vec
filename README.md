@@ -48,7 +48,7 @@ For more information on how to run the notebooks, click on the HowTo.md file loc
 
 The following images are from two 2D TSNE (quick explanation https://www.youtube.com/watch?v=p3wFE85dAyY ) plot of the resulting book embeddings. The first one is a TNSE of the 3000 most occurring books in the data (out of 10,000 book vectors that were trained), and the second one is a TSNE of all 10,000 books. I did two TSNE's because as the number of points increase, the accuracy tends to decrease, so I wanted to see the maps of the most occuring books, and then the rest
 
-# TSNE maps top 3000 books
+# TSNE maps of top 3000 books
 
 This section contains fantasty/high fantasy written within the last 30-40 years. 
 
@@ -126,7 +126,7 @@ I'll make more for the other 7000 vectors but Google Colab seems to be only able
 
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
-# TSNE maps top 10,000 books
+# TSNE maps of top 10,000 books
 
 American history to the left merging in with general world history to the right
 
