@@ -210,7 +210,7 @@ Young adult fantasy
 
 Entire 10k TSNE map. You'll have to zoom in real close to make out the text. It might be easier to download the picture. 
 
-![alt text](Images/10kTSNEHighlights/Final (2).jpg)
+![alt text](Images/10kTSNEHighlights/FinalAll10k.jpg)
 
 # Similiarity Properties
 
