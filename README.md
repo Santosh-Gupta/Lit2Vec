@@ -122,8 +122,6 @@ These section tends to have books with female main characters.
 
 Full map of the 3000 vector TNSE. You'll have to zoom in real close to make out the text. It might be easier to download the picture. 
 
-I'll make more for the other 7000 vectors but Google Colab seems to be only able to handle 3000-3500 vectors, even on GPU mode (GPU mode doesn't seem to make a difference though), so I'll probably have to make 2 or 3 more maps. 
-
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
 # TSNE maps of top 10,000 books
@@ -236,7 +234,7 @@ Young adult fantasy
 
 ![alt text](YoungAdultFantsy5.JPG)
 
-Entire 10k TSNE map
+Entire 10k TSNE map. You'll have to zoom in real close to make out the text. It might be easier to download the picture. 
 
 ![alt text](Images/10kTSNEHighlights/WorldHistoryUniverseHistory.JPG)
 
