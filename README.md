@@ -232,11 +232,11 @@ Young adult fantasy
 
 ![alt text](Images/10kTSNEHighlights/YoungAdultFantasy4.JPG)
 
-![alt text](YoungAdultFantsy5.JPG)
+![alt text](Images/10kTSNEHighlights/YoungAdultFantsy5.JPG)
 
 Entire 10k TSNE map. You'll have to zoom in real close to make out the text. It might be easier to download the picture. 
 
-![alt text](Images/10kTSNEHighlights/WorldHistoryUniverseHistory.JPG)
+![alt text](Images/10kTSNEHighlights/Final (2).jpg)
 
 # Similiarity Properties
 
