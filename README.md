@@ -46,7 +46,9 @@ These notebooks are set up to download these files from your Google Drive, and w
 
 For more information on how to run the notebooks, click on the HowTo.md file located in this repository. 
 
-The following images are from a single 2D T-NSE plot of the resulting book embeddings. This particular TNSE plotted 3000 books (out of 10,000 book vectors that were trained)
+The following images are from two 2D TSNE (quick explanation https://www.youtube.com/watch?v=p3wFE85dAyY ) plot of the resulting book embeddings. The first one is a TNSE of the 3000 most occurring books in the data (out of 10,000 book vectors that were trained), and the second one is a TSNE of all 10,000 books. I did two TSNE's because as the number of points increase, the accuracy tends to decrease, so I wanted to see the maps of the most occuring books, and then the rest
+
+# TSNE maps top 3000 books
 
 This section contains fantasty/high fantasy written within the last 30-40 years. 
 
@@ -123,6 +125,120 @@ Full map of the 3000 vector TNSE. You'll have to zoom in real close to make out 
 I'll make more for the other 7000 vectors but Google Colab seems to be only able to handle 3000-3500 vectors, even on GPU mode (GPU mode doesn't seem to make a difference though), so I'll probably have to make 2 or 3 more maps. 
 
 ![alt text](Images/Book2Vec0-3000New.jpg)
+
+# TSNE maps top 10,000 books
+
+American history to the left merging in with general world history to the right
+
+![alt text](Images/10kTSNEHighlights/AmericanHistoryWorldHistory.JPG)
+
+World history merging with universe history and origin theories
+
+![alt text](Images/10kTSNEHighlights/WorldHistoryUniverseHistory.JPG)
+
+Art guidance and history 
+
+![alt text](Images/10kTSNEHighlights/ArtSelfArtHistory.JPG)
+
+Children's classics 
+
+![alt text](Images/10kTSNEHighlights/ClassicChildrens.JPG)
+
+Comedy
+
+![alt text](Images/10kTSNEHighlights/Comedy.JPG)
+
+Comedy reflections and memiors 
+
+![alt text](Images/10kTSNEHighlights/ComedyReflectionsMemiors.JPG)
+
+Cooking and a partial of food science and journalism 
+
+![alt text](Images/10kTSNEHighlights/CookingPartialofFoodScienceandJournalism.JPG)
+
+Food science and journalism
+
+![alt text](Images/10kTSNEHighlights/FoodScienceAndJournalism.JPG)
+
+Religious
+
+![alt text](Images/10kTSNEHighlights/Religious.JPG)
+
+Spys
+
+![alt text](Images/10kTSNEHighlights/Spys.JPG)
+
+Classic societal analysis
+
+![alt text](Images/10kTSNEHighlights/SocietalAnalysis.JPG)
+
+Young adult from the 60s, 70s and 80s. 
+
+![alt text](Images/10kTSNEHighlights/YoungAdult60s70s80s.JPG)
+
+Young adult romance
+
+![alt text](Images/10kTSNEHighlights/YoungAdultYoungAdultRomance.JPG)
+
+Young adult VAMPIRES
+
+![alt text](Images/10kTSNEHighlights/youngadultVampires.JPG)
+
+Self help, this section seems to be focused on empowerment, relationships, and personal finance. 
+
+![alt text](Images/10kTSNEHighlights/SelfHelpEmpowermentRelationshipsPersonalFinance.JPG)
+
+Self help, this section seems to be focused on eartern philosophy
+
+![alt text](Images/10kTSNEHighlights/SelfHelpSpiritialEasternPhilosophy.JPG)
+
+Middle of the self help section, covers a bit of everything
+
+![alt text](Images/10kTSNEHighlights/SelfHelpCenterEverything.JPG)
+
+Self help, this section seems to be focused on self analysis and overall pscyhology
+
+![alt text](Images/10kTSNEHighlights/SelfHelpSelfAnalysisPsychology.JPG)
+
+Self help, this section seems to be focused on productivity, influence, leadership, and business. 
+
+![alt text](Images/10kTSNEHighlights/SelfHelpProductivityInfluenceLeadershipBusiness.JPG)
+
+Not so much self help anymore, more of a focus on innovation and biographies of major innovators. 
+
+![alt text](Images/10kTSNEHighlights/SelfHelpInnovationBiographies.JPG)
+
+Not so much self help anymore, books on overall business, finance, and economics
+
+![alt text](Images/10kTSNEHighlights/BusinessFinanceEconomics.JPG)
+
+Manga
+
+![alt text](Images/10kTSNEHighlights/Manga.JPG)
+
+High fantasy
+
+![alt text](Images/10kTSNEHighlights/HighFantasy.JPG)
+
+Graphic Novels
+
+![alt text](Images/10kTSNEHighlights/GraphicNovels.JPG)
+
+Young adult fantasy
+
+![alt text](Images/10kTSNEHighlights/YoungAdultFantasy.JPG)
+
+![alt text](Images/10kTSNEHighlights/YoungAdultFantasy2.JPG)
+
+![alt text](Images/10kTSNEHighlights/YoungAdultFantasy3.JPG)
+
+![alt text](Images/10kTSNEHighlights/YoungAdultFantasy4.JPG)
+
+![alt text](YoungAdultFantsy5.JPG)
+
+Entire 10k TSNE map
+
+![alt text](Images/10kTSNEHighlights/WorldHistoryUniverseHistory.JPG)
 
 # Similiarity Properties
 
