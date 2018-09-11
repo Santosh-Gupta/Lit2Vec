@@ -1,31 +1,5 @@
 # Book2Vec
 
-(Still in progress, will be completed by 8-20-18)
-
---------------------------------------------------------------------------------
-
-Update 7-17-18
-
--I added a section on why the window size was not kept constant. 
-
----------------------------------------------------------------------------------
-
-Update 7-16-18
-
--I added a new notebook for creating T-SNE maps for embeddings closest to a particular book. The name of the notebook is called Book2VecIndividualBookMaps.ipynb . Several sample T-SNE book maps images are displayed below. 
-
---------------------------------------------------------------------------------
-
-Updates 7-12-18: 
-
--I am adding more content at the bottom about the importance of smaller batch sizes when training on this data. 
-
--I will eventually move this to https://github.com/Santosh-Gupta/Lit2Vec since Book2Vec has been used before in describing the representation of books as vectors, but using a different method training method (Doc2Vec). You can read about it here http://www.aclweb.org/anthology/E17-1114 .
-
--Created at HowTo.md file in the repository with some helpful detail on how to run the notebook and input the required files. 
-
--Next updates will be describing more about the arithmetic properties of the vectors, and more detail in the  HowTo.md file on how to run the notebooks, for those not familiar with Google Colaboratory. 
-
 --------------------------------------------------------------------------------
 
 Using the Cbow version of the Word2Vec algorithm on Goodreads data, vectors were trained to represent books. 
@@ -458,7 +432,7 @@ Although the window sized was not constant, the number of input vectors to avera
 
 # Future plans / projects
 
-I plan on doing the same thing for research papers. I'll need people who have read a lot of papers in the biomedical, neuroscience, or CS fields to help evaluate these embeddings. If you have read a lot of papers in one of those fields and would like to help, please reach out!
+Currently working on doing the same thing for research papers, check it out at https://github.com/Santosh-Gupta/Research2Vec and https://www.reddit.com/r/Research2Vec/
 
 # Shoutouts!
 
