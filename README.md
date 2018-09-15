@@ -334,81 +334,61 @@ Slaughterhouse-Five by Kurt Vonnegut
 
 Zoomed in preview
 
-![alt text](Images/BookMaps/Slaughterhouse-Five.jpg)
+![alt text](Images/BookMaps/Slaughterhouse-FivePreview.jpg)
 
 Full BookMap
 
-![alt text](Images/BookMaps/Slaughterhouse-FivePreview.jpg)
+![alt text](Images/BookMaps/Slaughterhouse-Five.jpg)
 
 Siddhartha by Hermann Hesse
 
 Zoomed in preview
 
-![alt text](Images/BookMaps/Siddhartha.jpg)
-
-Full BookMap
-
 ![alt text](Images/BookMaps/SiddharthaPreview.jpg)
 
-Night Watch (Discworld) by Terry Pratchett
-
-Zoomed in preview
-
-![alt text](Images/BookMaps/NightWatch (1).jpg)
-
 Full BookMap
 
-![alt text](Images/BookMaps/NightWatchPreview.JPG)
+![alt text](Images/BookMaps/Siddhartha.jpg)
 
 Night Watch (Discworld) by Terry Pratchett
 
 Zoomed in preview
 
-![alt text](Images/BookMaps/NightWatch (1).jpg)
+![alt text](Images/BookMaps/NightWatchPreview.JPG)
 
 Full BookMap
 
-![alt text](Images/BookMaps/NightWatchPreview.JPG)
+![alt text](Images/BookMaps/NightWatch.jpg)
 
 The Martian by Andy Weir
 
 Zoomed in preview
 
-![alt text](Images/BookMaps/Martian.jpg)
-
-Full BookMap
-
 ![alt text](Images/BookMaps/MartianPreview.JPG)
 
-11/22/63 by Stephen King 
-
-Zoomed in preview
-
-![alt text](Images/BookMaps/JKFTimeTravel.jpg)
-
 Full BookMap
 
-![alt text](Images/BookMaps/11-22-63Preview.JPG)
+![alt text](Images/BookMaps/Martian.jpg)
 
 11/22/63 by Stephen King 
 
 Zoomed in preview
 
-![alt text](Images/BookMaps/JKFTimeTravel.jpg)
+![alt text](Images/BookMaps/11-22-63Preview.JPG)
 
 Full BookMap
 
-![alt text](Images/BookMaps/11-22-63Preview.JPG)
+![alt text](Images/BookMaps/JKFTimeTravel.jpg)
 
 East of Eden by John Steinbeck
 
 Zoomed in preview
 
-![alt text](Images/BookMaps/EastEden.jpg)
+![alt text](Images/BookMaps/EastEdenPreview.JPG)
 
 Full BookMap
 
-![alt text](Images/BookMaps/EastEdenPreview.JPG)
+![alt text](Images/BookMaps/EastEden.jpg)
 
 # Takeaways (Stuff for other Machine Learning fans)
 
