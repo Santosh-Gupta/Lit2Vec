@@ -26,6 +26,8 @@ The following images are from two 2D TSNE (quick explanation https://www.youtube
 
 # TSNE maps of top 3000 books
 
+The following pictures are zoom-ins from the full 3k book map TSNE image, followed by the full image. 
+
 This section contains fantasty/high fantasy written within the last 30-40 years. 
 
 ![alt text](Images/Book2VecSample1.JPG)
@@ -101,6 +103,8 @@ Full map of the 3000 vector TNSE. You'll have to zoom in real close to make out 
 ![alt text](Images/Book2Vec0-3000New.jpg)
 
 # TSNE maps of top 10,000 books
+
+The following pictures are zoom-ins from the full 10k book map TSNE image, followed by the full image. 
 
 American history to the left merging in with general world history to the right
 
