@@ -18,7 +18,7 @@ These notebooks are set up to download these files from your Google Drive, and w
 
 For more information on how to run the notebooks, click on the HowTo.md file located in this repository. 
 
-If you have any questions or comments or would like to post your results of using the Lit2Vec algorithm or model, visit https://www.reddit.com/r/Lit2Vec/
+If you have any questions or comments or would like to post your results of using the algorithm or model, visit https://www.reddit.com/r/Lit2Vec/
 
 The following images are from two 2D TSNE (quick explanation https://www.youtube.com/watch?v=p3wFE85dAyY ) plot of the resulting book embeddings. The first one is a TNSE of the 3000 most occurring books in the data (out of 10,000 book vectors that were trained), and the second one is a TSNE of all 10,000 books. I did two TSNE's because as the number of points increase, the accuracy tends to decrease, so I wanted to see the maps of the most occuring books, and then the rest
 
