@@ -14,8 +14,6 @@ and can be found here
 
 https://github.com/zygmuntz/goodbooks-10k
 
-In addition to these files, if you would like to run the 
-
 These notebooks are set up to download these files from your Google Drive, and will ask permission to access your Google Drive. So if you would like to use these notebooks as is, download the files from the link above, and upload them to your Google Drive. 
 
 For more information on how to run the notebooks, click on the HowTo.md file located in this repository. 
